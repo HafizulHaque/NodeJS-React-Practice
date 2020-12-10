@@ -1,0 +1,23 @@
+body{
+    margin: 0
+}
+
+div.container{
+    background-color: #ddd;
+    width: 60%;
+    margin: 0 auto;
+    padding: 50px 20px;
+}
+
+div.item{
+    background-color: #fff;
+    padding: 10px;
+    margin: 20px 10px;
+}
+
+div.item.span{
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 10px;
+}
+
